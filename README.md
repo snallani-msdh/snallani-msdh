@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Srimadhav Nallani (@snallani-msdh), an Epidemiologist for the Mississippi Public Health Lab.
+- 👋 Hi, I’m Srimadhav Nallani (@snallani-msdh), Genomic Epidemiologist and Bioinformatician for the Mississippi Public Health laboratory.
 - 👀 I’m interested in Genomic Epidemiology and Next Generation Sequencing Analysis.
 - 🌱 I'm currently working on finding better tools for creating actionable visualizations for public health.
 - 💞️ I’m looking to collaborate on pipelines to analyze various pathogens affecting public health.
